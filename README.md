@@ -9,4 +9,4 @@ GGally plot
 
 --
 
-[](https://github.com/NicJC/Customers/blob/main/matrixPlot.png)
+![](https://github.com/NicJC/Customers/blob/main/matrixPlot.png)
